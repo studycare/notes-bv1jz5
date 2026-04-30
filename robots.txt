@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://studycare.github.io/notes-bv1jz5/sitemap.xml
